@@ -187,6 +187,4 @@
 // let str = "  assalomu alaylum  ";
 // console.log(str.trim());
 
-console.log(x);
-var x = 5;
-console.log(x);
+
